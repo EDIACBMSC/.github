@@ -1,29 +1,48 @@
 # Escritório de Dados, Inovação e Automação do CBMSC
 
-Tecnologia aplicada à operação pública, com foco em dados confiáveis, automação segura e inteligência artificial útil.
+Dados confiáveis, automação segura e inteligência artificial aplicados à missão do Corpo de Bombeiros Militar de Santa Catarina.
 
 ## O que construímos
 
-- Integrações entre sistemas institucionais
-- Automação de processos operacionais e administrativos
-- Engenharia, qualidade e governança de dados
-- Soluções de inteligência artificial com supervisão humana
-- Painéis e ferramentas para apoiar decisões
+O Escritório de Dados, Inovação e Automação desenvolve soluções para reduzir trabalho manual, melhorar a qualidade da informação e apoiar decisões institucionais.
 
-## Princípios
+Nossas frentes incluem:
 
-1. Evidência antes de esforço.
-2. Segurança e rastreabilidade desde o início.
-3. Soluções simples para problemas reais.
-4. Dados institucionais tratados com responsabilidade.
-5. Automação como apoio às pessoas, com responsabilidade e propósito.
+- integração entre sistemas institucionais;
+- automação de processos operacionais e administrativos;
+- engenharia, qualidade e governança de dados;
+- inteligência artificial com supervisão humana;
+- painéis e ferramentas para apoio à decisão;
+- documentação técnica e padrões reutilizáveis.
 
-## Projetos
+## Como trabalhamos
 
-Os repositórios públicos apresentam iniciativas que podem ser compartilhadas. Projetos operacionais e dados institucionais permanecem privados conforme sua classificação.
+1. Mapeamos o processo e suas fontes reais.
+2. Validamos o problema antes de construir.
+3. Aplicamos permissões mínimas e rastreabilidade.
+4. Testamos o fluxo completo antes da publicação.
+5. Medimos o resultado e evoluímos de forma controlada.
+
+## Git oficial e repositórios complementares
+
+O GitLab institucional do CBMSC é a fonte oficial para os projetos corporativos.
+
+Esta organização no GitHub é complementar e recebe somente projetos, integrações ou materiais cuja publicação tenha sido expressamente autorizada.
+
+## Segurança e privacidade
+
+Repositórios públicos não recebem:
+
+- credenciais, tokens ou chaves;
+- dados pessoais ou institucionais restritos;
+- URLs, endereços ou arquitetura interna;
+- logs, dumps ou exportações operacionais;
+- regras que exponham controles internos.
+
+Todo conteúdo público deve passar por classificação, sanitização e revisão.
 
 ## Instituição
 
-O Corpo de Bombeiros Militar de Santa Catarina atua na proteção da vida, do patrimônio e do meio ambiente. Esta organização reúne projetos técnicos mantidos pelo Escritório de Dados, Inovação e Automação.
+O Corpo de Bombeiros Militar de Santa Catarina atua na proteção da vida, do patrimônio e do meio ambiente.
 
-[Portal do CBMSC](https://www.cbm.sc.gov.br/)
+[Portal oficial do CBMSC](https://www.cbm.sc.gov.br/)
